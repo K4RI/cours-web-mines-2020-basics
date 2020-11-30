@@ -1,5 +1,5 @@
-body #main-content div.box > a,
-a.special {
+/*
+body #main-content div.box > a, a.special {
   font-size: 18px;
   font-weight: bold;
   font-family: sans-serif;
@@ -12,13 +12,28 @@ body #main-content {
   position: relative;
 }
 
-body #main-content div.box > a,
-a.special {
+body #main-content div.box > a, a.special {
   position: absolute;
   top: 10px;
   left: 10px;
   width: 100px;
   height: 100px;
 
-  display: block; /*hidden, inline, ...*/
+  display: block; //hidden, inline, ...
+}
+*/
+
+#exo-3 label {
+  color: rgb(0, 0, 255);
+}
+
+#exo-3 input {
+  font-size: 24px;
+}
+
+#bloc-plus p{
+  position: absolute;
+  left: 400px;
+  font-size: 10px;
+  color: rgb(255,0,0);
 }
