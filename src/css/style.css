@@ -39,9 +39,9 @@ body #main-content div.box > a, a.special {
   position: absolute;
   left: 400px;
   font-size: 10px;
-  color: rgb(255,0,0);
+  color: rgb(255, 0, 0);
 }
 
-.message-container{
-  padding-bottom: 250px;
+.message-container {
+  padding-bottom: 550px;
 }

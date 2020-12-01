@@ -58,6 +58,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "date-fns": "^2.16.1",
     "jquery": "^3.5.1",
     "ky": "^0.11.0",
     "node-snackbar": "^0.1.15",
